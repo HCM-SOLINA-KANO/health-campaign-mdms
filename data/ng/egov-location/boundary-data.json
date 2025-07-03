@@ -61296,65 +61296,6 @@
                 ]
               }
             ]
-          },
-          {
-            "id": "kab12345678910",
-            "boundaryNum": 2,
-            "name": "Kano",
-            "localname": "Kano",
-            "longitude": null,
-            "latitude": null,
-            "label": "State",
-            "code": "kab12345678910",
-            "children": [
-              {
-                "id": "a203c6ee321d",
-                "boundaryNum": 3,
-                "name": "Kura",
-                "localname": "Kura",
-                "longitude": null,
-                "latitude": null,
-                "label": "LGA",
-                "code": "a203c6ee321d",
-                "children": [
-                  {
-                    "id": "407ac2e2cd63",
-                    "boundaryNum": 4,
-                    "name": "Dalili",
-                    "localname": "Dalili",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Ward",
-                    "code": "407ac2e2cd63",
-                    "children": [
-                      {
-                        "id": "d209dcc7d95e",
-                        "boundaryNum": 5,
-                        "name": "AZORE HP",
-                        "localname": "AZORE HP",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Health Facility",
-                        "code": "d209dcc7d95e",
-                        "children": [
-                          {
-                            "id": "6ad5b0852499",
-                            "boundaryNum": 6,
-                            "name": "Azoren Waje",
-                            "localname": "Azoren Waje",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Community",
-                            "code": "6ad5b0852499",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
           }
         ]
       }
