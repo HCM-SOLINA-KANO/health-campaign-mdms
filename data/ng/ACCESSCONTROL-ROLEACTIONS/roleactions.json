@@ -19075,6 +19075,12 @@
       "actionid": 1545,
       "actioncode": "",
       "tenantId": "ng"
+    },
+    {
+      "rolecode": "COMMUNITY_DISTRIBUTOR",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "kd"
     }
   ]
 }

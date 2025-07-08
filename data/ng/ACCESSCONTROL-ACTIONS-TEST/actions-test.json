@@ -13477,6 +13477,18 @@
       "serviceCode": "attendance-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1943,
+      "name": "Summary Report",
+      "url": "",
+      "displayName": "HOME_VIEW_PERFORMANCE_SUMMARY_REPORTS_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
     }
   ]
 }
