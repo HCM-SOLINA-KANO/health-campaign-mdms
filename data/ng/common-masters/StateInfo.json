@@ -5,10 +5,10 @@
     {
       "name": "Kebbi",
       "code":"ng",
-      "bannerUrl": "",
-      "logoUrl":"https://kebbi-static-assets.s3.af-south-1.amazonaws.com/NMEP-logo.png",
+      "bannerUrl": "https://staticassets-solina-kano.s3.af-south-1.amazonaws.com/sarmaan.png",
+      "logoUrl":"https://staticassets-solina-kano.s3.af-south-1.amazonaws.com/scidar.png",
       "digitLogoUrl":"https://kebbi-static-assets.s3.af-south-1.amazonaws.com/digit-logos.png",
-      "headerProgramLogoUrl": "https://kebbi-static-assets.s3.af-south-1.amazonaws.com/MC-logo6.png",
+      "headerProgramLogoUrl": "https://kebbi-static-assets.s3.af-south-1.amazonaws.com/digit-logos.png",
       "customReportsDriveLink": "https://drive.google.com/drive/folders/1Fr9DvzNkGNCTGuTqXFW3M98Czxp4wc_Z",
       "feedbackLink" : "https://www.google.co.in/",
       "hasLocalisation": true,
